@@ -1,0 +1,5 @@
+High İmpact News=NFP,FOMC,CPI,FED Açıklamaları,SEC and CFTC Haberleri İndikatörler Günlük zaman  
+diliminde Ağırlaştırılmış Harketli ortalama (WMA) parametresi 21 olacak 
+(WMA fiyata karşı daha hassas olduğu için bu seçildi) 
+5 dakikalık zaman diliminde Normalized Macd(by.Glaz) 
+parametreleri 6,13,5 long yönlü işlem için macd < 0 sinyal üretmeli, short için  > 0
